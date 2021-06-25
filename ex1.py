@@ -1,0 +1,11 @@
+print("Hello World!")
+print("Hello Again")
+print("I like tyiping this.")
+print("This is fun.")
+print('Yay! Printing')
+print("I'd much rather you 'not'.")
+print('I "said" do not touch this.')
+print('hello')
+print("hello")
+# i can type anything here without affecting other things
+print("i don't know")
