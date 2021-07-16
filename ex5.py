@@ -15,4 +15,4 @@ print(f"His teeth are usally {my_teeth} depending on coffee.")
 
 # this line is tricky, try to get it exactly right.
 total = my_age + my_height + my_weight
-print(f"If I add {my_age}, {my_age}, and {my_weight} I get {total}.")
+print(f"If I add {my_age}, {my_height}, and {my_weight} I get {total}.")
